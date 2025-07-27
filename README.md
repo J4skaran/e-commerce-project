@@ -20,8 +20,9 @@ This project presents a comprehensive analysis of a sample e-commerce dataset us
 9. 🧮 What is the correlation between discount and profit?
 10. ⚠️ Which products should be prioritized or avoided based on performance?
 
-## Tools and Libraries Used
- -Python
+## Tools and Libraries Used:
+
+-Python
 - Google Colab
 - Pandas – data manipulation
 - Plotly Express & Graph Objects – for interactive charts
